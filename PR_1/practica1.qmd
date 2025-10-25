@@ -1,1 +1,8 @@
-
+---
+title: "Практическая работа 1. Введение в язык R."
+subtitle: "Отчет по практике 1"
+author: "TrystNB@ya.ru"
+format: 
+  md:
+    output-file: README.md
+---
