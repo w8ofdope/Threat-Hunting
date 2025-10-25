@@ -27,8 +27,17 @@ format:
 
 
 ## Выполнение задания
+### Установка пакета dplyr
+```
+> options(repos = c(CRAN = "https://mirror.truenetwork.ru/CRAN/"))
+> install.packages("dplyr")
+WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
 
+...
 
+Скачанные бинарные пакеты находятся в
+	C:\Users\User\AppData\Local\Temp\RtmpAJ4Bj5\downloaded_packages
+```
 
 
 
@@ -36,3 +45,4 @@ format:
 ## Оценка результатов и вывод
 
 В результате практической работы мы проанализировали встроенный в пакет dplyr набор данных starwars с помощью языка R.
+
